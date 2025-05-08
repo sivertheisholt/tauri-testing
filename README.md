@@ -1,1 +1,2 @@
 # tauri-testing
+test
